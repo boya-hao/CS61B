@@ -11,3 +11,5 @@ public class ArgsSum {
 		System.out.println(total);
 	}
 }
+
+add 1
