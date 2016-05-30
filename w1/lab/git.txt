@@ -1,0 +1,14 @@
+subl (invoke sublime)
+
+git init
+git add . (add all)
+git status
+git commit -m "first commit" (safe and forever)
+git log
+git show commit_id
+
+after change the file, you need to git add first, and then git commit.
+
+git checkout commit_it (roll back to that commit id)
+
+
